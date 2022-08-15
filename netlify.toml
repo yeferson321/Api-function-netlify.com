@@ -1,4 +1,5 @@
 [build]
+    command = "netlify dev"
     functions = "functions"
 
 [[redirects]]
